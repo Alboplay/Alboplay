@@ -1,0 +1,15 @@
+  <button>
+        REGJISTROHU
+      </button>
+
+      <div class="login">
+        Ke tashmë llogari?
+        <a href="#">Hyr këtu</a>
+      </div>
+
+    </div>
+
+  </div>
+
+</body>
+</html>
